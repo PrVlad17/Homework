@@ -1,0 +1,15 @@
+D:\программирование\HW3\obj\Debug\net6.0\HW3.csproj.AssemblyReference.cache
+D:\программирование\HW3\obj\Debug\net6.0\HW3.GeneratedMSBuildEditorConfig.editorconfig
+D:\программирование\HW3\obj\Debug\net6.0\HW3.AssemblyInfoInputs.cache
+D:\программирование\HW3\obj\Debug\net6.0\HW3.AssemblyInfo.cs
+D:\программирование\HW3\obj\Debug\net6.0\HW3.csproj.CoreCompileInputs.cache
+D:\программирование\HW3\bin\Debug\net6.0\HW3.exe
+D:\программирование\HW3\bin\Debug\net6.0\HW3.deps.json
+D:\программирование\HW3\bin\Debug\net6.0\HW3.runtimeconfig.json
+D:\программирование\HW3\bin\Debug\net6.0\HW3.dll
+D:\программирование\HW3\bin\Debug\net6.0\HW3.pdb
+D:\программирование\HW3\obj\Debug\net6.0\HW3.dll
+D:\программирование\HW3\obj\Debug\net6.0\refint\HW3.dll
+D:\программирование\HW3\obj\Debug\net6.0\HW3.pdb
+D:\программирование\HW3\obj\Debug\net6.0\HW3.genruntimeconfig.cache
+D:\программирование\HW3\obj\Debug\net6.0\ref\HW3.dll
