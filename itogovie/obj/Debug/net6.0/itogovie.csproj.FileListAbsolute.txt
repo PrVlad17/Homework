@@ -1,0 +1,15 @@
+D:\программирование\itogovie\bin\Debug\net6.0\itogovie.exe
+D:\программирование\itogovie\bin\Debug\net6.0\itogovie.deps.json
+D:\программирование\itogovie\bin\Debug\net6.0\itogovie.runtimeconfig.json
+D:\программирование\itogovie\bin\Debug\net6.0\itogovie.dll
+D:\программирование\itogovie\bin\Debug\net6.0\itogovie.pdb
+D:\программирование\itogovie\obj\Debug\net6.0\itogovie.csproj.AssemblyReference.cache
+D:\программирование\itogovie\obj\Debug\net6.0\itogovie.GeneratedMSBuildEditorConfig.editorconfig
+D:\программирование\itogovie\obj\Debug\net6.0\itogovie.AssemblyInfoInputs.cache
+D:\программирование\itogovie\obj\Debug\net6.0\itogovie.AssemblyInfo.cs
+D:\программирование\itogovie\obj\Debug\net6.0\itogovie.csproj.CoreCompileInputs.cache
+D:\программирование\itogovie\obj\Debug\net6.0\itogovie.dll
+D:\программирование\itogovie\obj\Debug\net6.0\refint\itogovie.dll
+D:\программирование\itogovie\obj\Debug\net6.0\itogovie.pdb
+D:\программирование\itogovie\obj\Debug\net6.0\itogovie.genruntimeconfig.cache
+D:\программирование\itogovie\obj\Debug\net6.0\ref\itogovie.dll
