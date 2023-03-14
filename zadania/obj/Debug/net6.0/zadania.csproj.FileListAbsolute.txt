@@ -1,0 +1,15 @@
+D:\программирование\zadania\obj\Debug\net6.0\zadania.csproj.AssemblyReference.cache
+D:\программирование\zadania\obj\Debug\net6.0\zadania.GeneratedMSBuildEditorConfig.editorconfig
+D:\программирование\zadania\obj\Debug\net6.0\zadania.AssemblyInfoInputs.cache
+D:\программирование\zadania\obj\Debug\net6.0\zadania.AssemblyInfo.cs
+D:\программирование\zadania\obj\Debug\net6.0\zadania.csproj.CoreCompileInputs.cache
+D:\программирование\zadania\bin\Debug\net6.0\zadania.exe
+D:\программирование\zadania\bin\Debug\net6.0\zadania.deps.json
+D:\программирование\zadania\bin\Debug\net6.0\zadania.runtimeconfig.json
+D:\программирование\zadania\bin\Debug\net6.0\zadania.dll
+D:\программирование\zadania\bin\Debug\net6.0\zadania.pdb
+D:\программирование\zadania\obj\Debug\net6.0\zadania.dll
+D:\программирование\zadania\obj\Debug\net6.0\refint\zadania.dll
+D:\программирование\zadania\obj\Debug\net6.0\zadania.pdb
+D:\программирование\zadania\obj\Debug\net6.0\zadania.genruntimeconfig.cache
+D:\программирование\zadania\obj\Debug\net6.0\ref\zadania.dll
